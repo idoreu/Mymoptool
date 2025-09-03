@@ -1,13 +1,11 @@
 # Mymoptool
 This is a tool to help Reddit moderators mop away large amount of comments they need to remove
 
-# Getting started with mymoptool
-
-Your project has been created using a Devvit template.
-
-## Next up
-
-Next up is uploading and developing your app using playtest.
+# Environment setup
+1. Install Node.JS and NPM
+2. Go to https://developers.reddit.com/new and choose Mod Tool under Other templates.
+3. Go through the wizard. You will need to create a Reddit account and connect it to Reddit developers.
+4. Follow the instructions on your terminal.
 
 In the project directory, you can run:
 
